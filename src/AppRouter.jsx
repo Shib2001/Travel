@@ -9,7 +9,7 @@ import Account from "./Account";
 
 const AppRouter = () => {
   return (
-    <div className="min-h-screen bg-gray-950 flex flex-col">
+    <div className="min-h-screen bg-linear-to-br from-slate-950 via-slate-900 to-teal-950 relative overflow-hidden flex flex-col">
       <Router>
         <Header />
         <main className="flex-1 px-4 py-8">

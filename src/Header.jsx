@@ -7,7 +7,7 @@ const Header = () => {
     <header className="text-white flex items-center justify-between px-8 py-4 shadow-md">
       <div className="flex items-center gap-3">
         <img src="/Logo.png" alt="Logo" className="h-8 w-8 object-contain" />
-        <span className="text-2xl font-bold tracking-wide hover:text-teal-400 transition">TravelDestiny</span>
+        <span className="text-2xl font-bold tracking-wide hover:text-teal-400 transition">TravelVista</span>
       </div>
       <nav className="flex items-center gap-6">
         <Link to="/" className="hover:text-teal-400 transition">
